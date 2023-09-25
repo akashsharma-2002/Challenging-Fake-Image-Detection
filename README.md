@@ -3,7 +3,9 @@
 ## Table of Contents
 
 Introduction
+
 Objective
+
 Expected Outcomes
 Project Overview
 Dataset
