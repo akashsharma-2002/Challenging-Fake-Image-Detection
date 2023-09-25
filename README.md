@@ -2,6 +2,7 @@
 # Fake Image Detection System
 
 Fake Image Detection System project! This system is designed to distinguish between real and AI-generated images. In today's digital age, the ability to detect fake or manipulated images is crucial for ensuring the authenticity and integrity of visual content.
+
 ## Table of content
 
 Objective
@@ -17,6 +18,7 @@ How to run
 Results
 
 Contributing
+
 ## Objective
 
 The main objective of this project is to develop a fake image detection system that achieves high accuracy and robustness. The system should be capable of differentiating between real and AI-generated images, helping to identify potentially deceptive visual content.
@@ -41,6 +43,7 @@ Training: Detail how the model was trained, including the choice of hyperparamet
 Evaluation: Discuss the evaluation metrics used to assess the model's performance.
 
 Results: Summarize the results achieved, including accuracy, precision, recall, and any visualizations.
+
 ## Dataset
 
 The dataset used for this project has been sourced from Kaggle. It contains real and fake face images for use in face detection tasks. You can access the dataset on Kaggle using the following link:
@@ -80,13 +83,3 @@ This are some more results on the prediction.
 <img width="850" alt="Screenshot 2023-09-25 at 8 59 45 AM" src="https://github.com/akashsharma-2002/Challenging-Fake-Image-Detection/assets/73756172/2af67f33-1099-436f-a561-2449a7b90a2e">
 
 
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-Please adhere to this project's `code of conduct`.
-
-
-License
