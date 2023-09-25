@@ -70,7 +70,12 @@ In this section, we present the results of our fake image detection system by co
 
 Here, we display a selection of sample images alongside their predicted labels. The images are shown in pairs, with the actual image on the left and the predicted image (with labels) on the right.
 
+
+
 <img width="317" alt="Screenshot 2023-09-25 at 8 57 50 AM" src="https://github.com/akashsharma-2002/Challenging-Fake-Image-Detection/assets/73756172/30b84a23-3d5f-4a35-8654-b869f5177c61">
+
+
+
 
 
 
@@ -80,6 +85,11 @@ We encourage you to explore more results and visualizations of this project.
 This are some more results on the prediction.
 
 
+
+
+
 <img width="850" alt="Screenshot 2023-09-25 at 8 59 45 AM" src="https://github.com/akashsharma-2002/Challenging-Fake-Image-Detection/assets/73756172/2af67f33-1099-436f-a561-2449a7b90a2e">
+
+
 
 
