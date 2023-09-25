@@ -77,6 +77,9 @@ We encourage you to explore more results and visualizations of this project.
 This are some more results on the prediction.
 
 
+<img width="850" alt="Screenshot 2023-09-25 at 8 59 45 AM" src="https://github.com/akashsharma-2002/Challenging-Fake-Image-Detection/assets/73756172/2af67f33-1099-436f-a561-2449a7b90a2e">
+
+
 
 ## Contributing
 
